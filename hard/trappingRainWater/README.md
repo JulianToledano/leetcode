@@ -1,3 +1,0 @@
-# Trapping Rain Water
-
-[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)

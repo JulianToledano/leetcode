@@ -1,2 +1,0 @@
-# PROBLEM 
-[Two sum](https://leetcode.com/problems/two-sum/)
